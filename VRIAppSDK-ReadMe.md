@@ -5,6 +5,8 @@ VRI App SDK
 - iOS 12 Changes: AppSDK for support Xcode 10, tvOS 12 and iOS 12. The iOS 12 change includes transitioning from  UIWebView to WKWebView since the UIWebView class was officially deprecated. No changes for tvOS 12.
 
 6.0.0.4
+WARNING: Switching between 5th and 6th major versions will cause compile time error if you use New Enhanced API.
+
 - If the SDK build target is set to AGF then SDK will send the hello ping to “eu” and “eu-uat” for debug builds. No changes to the non AGF build the default sfcode will continue to be sdk and cert for debug build.
 - The C1 parameter (NUID) will now be sent as encrypted DeviceID.
 - New SessionID changes. The sessionID will contain 29 length random characters appended by timestamp.
