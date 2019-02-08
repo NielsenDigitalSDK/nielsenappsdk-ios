@@ -1,14 +1,12 @@
 Nielsen App SDK Release Notes
 
 Release 6.2.0.0 (2-4-2019)
-- Location measurement has been removed from the SDK code.
-- Location frameworks were there previously but disabled, now it’s fully removed to avoid confusion from noticing it being included at all. Code was there because SDK used to collect. Then the function was disabled. Even having it there, clients used to be like "why are you having that framework there?" It raised privacy/security concerns and suspicion.
-- Increased SDK log file size from 2mb limit to 50mb for Debug mode. Logs will not rollover so quickly so that longer debug sessions can be analyzed.
+- Removal of Location Module from SDK Code.
+- Increased SDK log file size for Debug mode.
 - Removed OTT Airplay/mirroring detection that caused crashes in AVAudioSession class.
 - DCR performance improvements.
-- Fixed the parsing error happening when clientid/vcid provided as empty in metadata. In case where clientid/vcid is not supplied, SDK will take default from config instead of using the blank value.
-- Implemented buildversion naming convention. Help monitor SDK flavor (artifactory/Adobe Launch/standalone/etc) and market (AGF/Global).
-- Align AppSDK for FW detection with BSDK where for DCR use a variable nol_cmsIntrvlGp (value is 2) rather than nol_id3IntrvlGp(15). Detect forward event with >2 seconds of scrub for DCR instead of 15 seconds as currently. This may result in more FW events in EVdata as well as less duration.
+- Fixed the parsing error happening when clientid/vcid provided as empty in metadata.
+- Align AppSDK for FW detection with BSDK for DCR measurement.
 - Other Bug Fixes/Enhancements.
 
 Release 6.1.0.1 (8-2-2018)
