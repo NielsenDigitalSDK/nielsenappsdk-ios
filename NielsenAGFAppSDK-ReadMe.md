@@ -1,5 +1,15 @@
 Nielsen AGF App SDK Release Notes
 
+Release 7.1.0.0 (12-9-2019)
+- Removed usage of deprecated class UIWebView 
+- Offline viewing measurement enhancements 
+- Fixed deadlock on SDK shutdown 
+- Revisited precedence logic for sfcode parameter
+- Fix for DCR individual ad pings parameters after channel change 
+- Using default value for incorrect adModel parameter
+- Defaulting isLive parameter value on channel change 
+- Other fixes and enhancements.
+
 Release 6.2.0.0 (2-4-2019)
 - Removal of Location Module from SDK Code.
 - Increased SDK log file size for Debug mode.
