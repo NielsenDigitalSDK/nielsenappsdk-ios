@@ -1,5 +1,5 @@
 Nielsen AGF No Ad TVOS App SDK Release Notes  
-For integration help, visit https://engineeringportal.nielsen.com/docs/DCR_%26_DTVR
+For integration help, visit https://engineeringportal.nielsen.com/docs/DCR_&_DTVR
 
 Release 7.1.0.0 (12-9-2019)
 - Removed usage of deprecated class UIWebView 
