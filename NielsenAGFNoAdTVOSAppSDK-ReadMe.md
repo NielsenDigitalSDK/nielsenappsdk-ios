@@ -1,4 +1,4 @@
-Nielsen AGF No Ad TVOS App SDK Release Notes
+Nielsen AGF No Ad TVOS App SDK Release Notes  
 For integration help, visit https://engineeringportal.nielsen.com/docs/DCR_%26_DTVR
 
 Release 7.1.0.0 (12-9-2019)
