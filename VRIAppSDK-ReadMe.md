@@ -8,13 +8,6 @@ Release 7.2.0.0 (5-18-2020)
 - Support for react native measurement
 - Other Bug Fixes and Enhancements.
 
-Release 7.2.0.0 (5-18-2020)
-- DTVR AQH and IVD requirements for End and pause timeout
-- Support for Hybrid app webview measurement
-- Support for Hybrid app react native webview measurement
-- Support for react native measurement
-- Other Bug Fixes and Enhancements.
-
 Release 7.1.0.0 (12-9-2019)
 - Removed usage of deprecated class UIWebView 
 - Offline viewing measurement enhancements 
