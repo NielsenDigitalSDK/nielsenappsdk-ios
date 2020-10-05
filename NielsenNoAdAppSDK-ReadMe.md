@@ -1,6 +1,14 @@
 Nielsen No Ad App SDK Release Notes
 For integration help, visit https://engineeringportal.nielsen.com/docs/DCR_&_DTVR
 
+Release 8.0.0.0 (10-05-2020)
+- iOS 14 App Transparency Framework support.
+- FPID and VendorID support.
+- Fixed the device classification for iPADOS measurement.
+- Support for Android apps running on ChromeOS.
+- Support for Xamarin cross platform framework.
+- Other bug fixes and enhancements.
+
 Release 7.2.0.0 (5-18-2020)
 - DTVR AQH and IVD requirements for End and pause timeout
 - Support for Hybrid app webview measurement
