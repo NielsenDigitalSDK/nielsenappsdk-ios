@@ -8,6 +8,7 @@ Release 8.1.0.0 (6-25-2021)
 - Support to capture Hashed email and UID.
 - Support to collect SDK diagnostic data.
 - Other bug fixes and enhancements.
+
 Release 8.0.0.0 (10-05-2020)
 - iOS 14 App Transparency Framework support.
 - FPID and VendorID support.
