@@ -1,7 +1,7 @@
 Nielsen AGF No Ad TVOS App SDK Release Notes  
 For integration help, visit https://engineeringportal.nielsen.com/docs/DCR_&_DTVR
 
-Release 8.1.0.0 (6-25-2021)
+Release 8.1.0.0 (6-28-2021)
 - Support for XCFramework build distribution.
 - Support for MacOS Catalyst platform framework.
 - Fixed the device classification for MacOS M1 measurement.
