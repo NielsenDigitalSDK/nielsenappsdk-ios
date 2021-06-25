@@ -1,6 +1,13 @@
 Nielsen AGF No Id TVOS App SDK Release Notes
 For integration help, visit https://engineeringportal.nielsen.com/docs/DCR_&_DTVR
 
+Release 8.1.0.0 (6-25-2021)
+- Support for XCFramework build distribution.
+- Support for MacOS Catalyst platform framework.
+- Fixed the device classification for MacOS M1 measurement.
+- Support to capture Hashed email and UID.
+- Support to collect SDK diagnostic data.
+- Other bug fixes and enhancements.
 Release 8.0.0.0 (10-05-2020)
 - iOS 14 App Transparency Framework support.
 - FPID and VendorID support.
