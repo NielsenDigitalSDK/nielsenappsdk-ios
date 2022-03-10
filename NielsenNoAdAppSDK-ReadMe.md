@@ -1,6 +1,14 @@
 Nielsen No Ad App SDK Release Notes
 For integration help, visit https://engineeringportal.nielsen.com/docs/DCR_&_DTVR
 
+Release 8.2.0.0 (3-21-2022)
+- Adopting Swift language internally, built on mixed model (Swift+Objective C).
+- Support for Swift markers to help Swift developers.
+- Removed the usage of deprecated iOS network reachability class.
+- Disabled iCloud backup/synchronization of SDK keychain items.
+- Other bug fixes and enhancements.
+Note: If you experience build errors while using static framework, please follow the instructions: https://engineeringportal.nielsen.com/docs/iOS_Static_Framework_Setup
+
 Release 8.1.0.0 (6-28-2021)
 - Support for XCFramework build distribution.
 - Support for MacOS Catalyst platform framework.
