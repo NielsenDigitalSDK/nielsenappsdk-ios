@@ -1,6 +1,11 @@
 Nielsen TVOS App SDK Release Notes  
 For integration help, visit https://engineeringportal.nielsen.com/docs/DCR_&_DTVR
 
+Release 9.0.0.0 (10-07-2022)
+- Viewability measurement for DTVR, DCR Content and DCR Ad products. 
+- Audibility measurement for DTVR, DCR Content and DCR Ad products.
+- SDK built with Xcode 14.
+- Other bug fixes and enhancements.
 Release 8.2.0.0 (3-21-2022)
 - Adopting Swift language internally, built on mixed model (Swift+Objective C).
 - Support for Swift markers to help Swift developers.
