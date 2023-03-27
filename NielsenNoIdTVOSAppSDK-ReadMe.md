@@ -1,6 +1,12 @@
 Nielsen No Id TVOS App SDK Release Notes
 For integration help, visit https://engineeringportal.nielsen.com/docs/DCR_&_DTVR
 
+Release 9.1.0.0 (03-31-2023)
+- DCR Static duration measurement for individual page section/assets.
+- Removed use of iOS keychains, replaced with NSUserDefaults for persistent storage.
+- Support to enable Viewability feature by product (DCR, DTVR).
+- Other bug fixes and enhancements.
+
 Release 9.0.0.0 (10-07-2022)
 - Viewability measurement for DTVR, DCR Content and DCR Ad products. 
 - Audibility measurement for DTVR, DCR Content and DCR Ad products.
