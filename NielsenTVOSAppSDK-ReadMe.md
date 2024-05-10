@@ -1,6 +1,11 @@
 Nielsen TVOS App SDK Release Notes  
 For integration help, visit https://engineeringportal.nielsen.com/docs/DCR_&_DTVR
 
+Release 9.3.0.0 (5-10-2024) 
+- Support for privacy manifest with tracking domain for Ad flavors.
+- Support for capturing user opt-out during initialization.
+- Other bug fixes and enhancements. 
+
 Release 9.2.0.0 (9-27-2023) 
 - Support for privacy manifest and required reason API introduced in XCode 15.
 - Digitally signed SDK framework per Apple recommendation.
