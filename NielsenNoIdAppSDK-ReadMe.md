@@ -1,6 +1,11 @@
 Nielsen No Id App SDK Release Notes
 For integration help, visit https://engineeringportal.nielsen.com/docs/DCR_&_DTVR
 
+Release 9.4.0.0 (07-09-2024)
+- Support for privacy manifest with content tracking domain for Ad flavors.
+- Support for content tracking and no-tracking domains across sdk flavors and products.
+- Other bug fixes and enhancements.
+
 Release 9.3.0.0 (5-10-2024) 
 - Support for privacy manifest with tracking domain for Ad flavors.
 - Support for capturing user opt-out during initialization.
