@@ -1,6 +1,13 @@
 Nielsen TVOS App SDK Release Notes  
 For integration help, visit https://engineeringportal.nielsen.com/docs/DCR_&_DTVR
 
+Release 10.0.0.0 (04-04-2025)
+- Support for DTVR Subminute product.
+- Support for DCR Video Playhead Bridging.
+- Support for VisionOS platform.
+- Change in DemographicID behavior for Chromecast.
+- Other bug fixes and enhancements.
+
 Release 9.4.0.0 (07-09-2024)
 - Support for privacy manifest with content tracking domain for Ad flavors.
 - Support for content tracking and no-tracking domains across sdk flavors and products.
