@@ -1,6 +1,12 @@
 Nielsen AGF App SDK Release Notes  
 For integration help, visit https://engineeringportal.nielsen.com/docs/DCR_&_DTVR
 
+Release 10.1.0.0 (10-17-2025)
+- Support for FPID multi-instance integrations.
+- Support for Flutter cross-platform plugin.
+- Support for Apple's iOS26/tvOS26 Log Visibility Changes.
+- Other bug fixes and enhancements.
+
 Release 10.0.0.0 (04-04-2025)
 - Support for DTVR Subminute product.
 - Support for DCR Video Playhead Bridging.
