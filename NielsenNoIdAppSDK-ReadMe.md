@@ -1,7 +1,7 @@
 Nielsen No Id App SDK Release Notes
 For integration help, visit https://engineeringportal.nielsen.com/docs/DCR_&_DTVR
 
-Release 10.2.0.0 (03-20-2026)
+Release 10.2.0.0 (03-24-2026)
 - iOS Digital Signature Certificate Renewal.
 - Fixes for Viewabiity defects.
 - Ad length warning - Fixed the ad tracking logic so now, the 300-second warning will only fire if the current ad actually plays for more than 5 minutes, and that error state will no longer bleed over into the next ad.
