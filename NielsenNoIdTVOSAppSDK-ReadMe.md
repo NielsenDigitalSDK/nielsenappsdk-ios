@@ -1,6 +1,12 @@
 Nielsen No Id TVOS App SDK Release Notes
 For integration help, visit https://engineeringportal.nielsen.com/docs/DCR_&_DTVR
 
+Release 10.2.0.0 (03-24-2026)
+- iOS Digital Signature Certificate Renewal.
+- Fixes for Viewabiity defects.
+- Ad length warning - Fixed the ad tracking logic so now, the 300-second warning will only fire if the current ad actually plays for more than 5 minutes, and that error state will no longer bleed over into the next ad.
+- SDK Code Signature fix (Global Flavor only) - The Global direct binary available on the Engineering Portal now correctly include the SDK code signature for manual integrations.
+
 Release 10.1.0.0 (10-17-2025)
 - Support for FPID multi-instance integrations.
 - Support for Flutter cross-platform plugin.
