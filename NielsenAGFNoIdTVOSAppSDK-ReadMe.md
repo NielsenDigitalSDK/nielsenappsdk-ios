@@ -10,6 +10,15 @@ Release 11.0.0.0 (10-16-2026)
 - Bug Fixes — Fixed duplicate log entries, race condition crashes, tvOS crash on launch, and edge cases in HTTP request handling.
 - Updated the timestamps of DCR event data from milliseconds to seconds.
 
+Release 11.0.0.0 (10-16-2026)
+- Enhancement of Error pings: Standardize error ping format across mobile and browser SDK.
+- Add FL/PFL (Flush/previous flush) events to the DCR event data in timer pings.
+- Objective-C to Swift Migration — The SDK core implementation has been migrated from Objective-C to Swift. The public API remains unchanged — no integration code changes required.
+- Apple iOS 27 and tvOS 27 Support — Replaced deprecated APIs, fixed viewability tracking for multi-window and UIScene-based lifecycles, corrected viewability reporting after orientation changes, and resolved thread safety warnings. Minimum deployment target raised to iOS 15 / tvOS 15 from iOS 13 / tvOS 13.
+- Error Code Standardisation — Standardised internal error codes across iOS, Browser and Android SDKs for consistent cross-platform diagnostics.
+- Bug Fixes — Fixed duplicate log entries, race condition crashes, tvOS crash on launch, and edge cases in HTTP request handling.
+- Updated the timestamps of DCR event data from milliseconds to seconds.
+
 Release 10.2.0.0 (03-24-2026)
 - iOS Digital Signature Certificate Renewal.
 - Fixes for Viewabiity defects.
